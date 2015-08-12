@@ -5,7 +5,7 @@ import ast
 import sys
 
 version_info = (0, 1, 1)
-__version__ = '.'.join(map(str, version_info))
+__version__ = '0.1.1+dd.1'
 
 
 def stringify(node):
